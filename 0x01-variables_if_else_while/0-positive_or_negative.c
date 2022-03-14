@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /*
- * main - Entry point
- * 
+ * main - check positive and negative
  * Return: Always 0 (Success)
 */
+
 
 int main(void)
 {
