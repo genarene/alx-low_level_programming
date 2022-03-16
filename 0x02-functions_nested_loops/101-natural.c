@@ -1,4 +1,4 @@
-#include <main.h>
+#include <stdio.h>
 /**
  * main - prints sum of all natural numbers divisible by
  * 3 or 5 and less than 1024
