@@ -55,7 +55,7 @@ for (b = 0 ; b <= n ; b++)
 print_table_format(a, b);
 if (b < n)
 {
-_puchar(',');
+_putchar(',');
 }
 else
 {
